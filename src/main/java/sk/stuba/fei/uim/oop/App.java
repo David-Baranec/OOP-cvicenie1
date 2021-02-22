@@ -5,6 +5,7 @@ public class App {
         System.out.println("Hello world");
         System.out.println("Hello world, one more time");
         System.out.println("I am bored");
+        System.out.println("what has happened?");
     }
 
 }
